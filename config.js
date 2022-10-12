@@ -30,26 +30,26 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/maxxy_ofc'
-global.sgh = '-' //github
-global.sgc = 'https://chat.whatsapp.com/K6femuL8bLx6HqWS7wXofI' //group whatsapp
+global.sig = 'https://instagram.com/andhikanations'
+global.sgh = 'https://github.com/andhikanations' //github
+global.sgc = '-' //group whatsapp
 global.sdc = '-' //discord
-global.snh = 'https://youtube.com/channel/UC6GPl9xMWL61NAXQb3HBrRw' // my youtube channel
+global.snh = 'https://youtube.com' // my youtube channel
 
 /*============== PAYMENT ==============*/
-global.pdana = '085380166282' //dana
+global.pdana = '0895371897020' //dana
 global.povo = '' //ovo
 global.pgopay = '' //gopay
 global.plinkaja = '' //link aja
-global.ppulsa = '085295374964' //telkomsel
-global.ppulsa2 = '085380166282' // kalau ada kartu lain isi aja
+global.ppulsa = '082135373432' //telkomsel
+global.ppulsa2 = '089508388556' // kalau ada kartu lain isi aja
 global.psaweria = 'https://saweria.com/MaxxyBotz'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285295374964'
-global.nomorown = '6285380166282'
-global.namebot = '𝑴𝒂𝒂𝒙𝒚 𝑩𝒐𝒕𝒛'
-global.nameown = '𝙆𝘼𝙃𝙁𝙄-𝙓𝘿'
+global.nomorbot = '6289508388556'
+global.nomorown = '62895371897020'
+global.namebot = 'Abx 𝑩𝒐𝒕𝒛'
+global.nameown = 'owner me'
 
 /*============== APIKEY SIMPEL ==============*/
 global.zenzkey = 'b8040941f7'
@@ -58,13 +58,13 @@ global.lolkey = '8e66d0934cf741bfd2182c16' // PUNYA WAHID 357d3c85079c4e0818731e
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285380166282', '𝙆𝘼𝙃𝙁𝙄-𝙓𝘿', true],
-  ['-', 'isi_kalau_ada', true],
-  ['-', 'isi_kalau_ada', true],
+  ['62895371897020', 'AndhikaGanz_', true],
+  ['6282135373432', 'ABX-Store', true],
+  ['6289508388556', 'ABX-Bot', true],
   ['-', 'isi_kalau_ada', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = [] // Want some help?
+global.mods = ["62895371897020"] // Want some help?
 global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 
@@ -109,13 +109,13 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 𝑴𝒂𝒂𝒙𝒚 𝑩𝒐𝒕𝒛 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘𝑴𝒂𝒂𝒙𝒚 𝑩𝒐𝒕𝒛 ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ 𝑴𝒂𝒂𝒙𝒚 𝑩𝒐𝒕𝒛 '
+global.wm = '                「 ABX 𝑩𝒐𝒕𝒛 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ABX 𝑩𝒐𝒕𝒛 ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ ABX 𝑩𝒐𝒕𝒛 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By 𝙆𝘼𝙃𝙁𝙄-𝙓𝘿`
-global.author = '                「 𝑴𝒂𝒂𝒙𝒚 𝑩𝒐𝒕𝒛  あ」'
+global.titlebot = `⫹⫺ WhatsApp Bot | By MR. X`
+global.author = '                「 ABX 𝑩𝒐𝒕𝒛  あ」'
 
 
 /*============== LOGO ==============*/
@@ -189,8 +189,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = '𝑴𝒂𝒂𝒙𝒚 𝑩𝒐𝒕𝒛'
-global.stickauth = `By ©𝙆𝘼𝙃𝙁𝙄-𝙓𝘿`
+global.stickpack = 'ABX 𝑩𝒐𝒕𝒛'
+global.stickauth = `By ©MR. X`
 
 global.multiplier = 38 // The higher, The harder levelup
 
