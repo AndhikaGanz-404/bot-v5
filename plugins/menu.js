@@ -503,7 +503,7 @@ const listMessage = {
             fileLength: fsizedoc,
             pageCount: fpagedoc,
             caption: text,
-            footer: titlebot + '\n By 𝙆𝘼𝙃𝙁𝙄-𝙓𝘿',
+            footer: titlebot + '\n By MR. X',
             templateButtons: [
                 {
                     urlButton: {
